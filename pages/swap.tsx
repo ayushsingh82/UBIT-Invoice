@@ -474,7 +474,7 @@ function Swap() {
 	<br/>
 	<br/><br/>
   <h5 className='text-lg fonr-medium border-2 rounded-lg px-[5px] py-[3px] 
-		border-purple-600 bg-black text-white'>Transfer USDC from Eth to Base</h5>
+		border-purple-600 bg-black text-white'>Transfer UBIT from Eth to Base</h5>
 	<br/>
   <div className='bg-black text-white border-2 border-purple-600 py-[5px] font-medium'>Eth: {ethBalance}&nbsp;&nbsp;&nbsp;&nbsp;Base: {baseBalance}</div>
 	<br/>
